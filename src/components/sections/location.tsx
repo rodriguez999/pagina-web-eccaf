@@ -26,7 +26,7 @@ const LocationSection = () => {
             </div>
           </div>
           <p className="mt-6 text-center text-lg font-semibold text-foreground">
-            Plaza Don Vicente, Primer piso, local 3B, ubicada en la Avenida República de Colombia, esq. calle primera entrada las flores, Distrito Municipal de Pantoja, Municipio los Alcarrizos, Provincia ssanto Domingo, República Dominicana.
+            Plaza Don Vicente, Primer piso, local 3B, ubicada en la Avenida República de Colombia, esq. Calle primera entrada las flores, Distrito Municipal de Pantoja, Municipio los Alcarrizos, Provincia ssanto Domingo, República Dominicana.
           </p>
         </div>
       </div>
