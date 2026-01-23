@@ -27,7 +27,7 @@ const Footer = () => {
                 (829) 248-4399
               </a>
             </li>
-            <li>C. El Recodo 2, Santo Domingo, República Dominicana</li>
+            <li>Plaza Don Vicente, Primer piso, local 3B, ubicada en la Avenida República de Colombia, esq. Calle primera entrada las flores, Distrito Municipal de Pantoja, Municipio los Alcarrizos, Provincia ssanto Domingo, República Dominicana.</li>
           </ul>
         </div>
 
